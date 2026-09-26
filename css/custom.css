@@ -71,7 +71,7 @@ html[data-theme="dark"] #sidebar #sidebar-menus.open {
   -webkit-backdrop-filter: blur(24px) saturate(180%);
   backdrop-filter: blur(24px) saturate(180%);
 }
-/* 文章页底色更透一点，与代码块拉开层次 */
+/* 文章页底色更透一点，与代码块拉开层次 */ 3
 html[data-theme="light"] #post {
   background: rgba(255, 255, 255, 0.7);
 }
